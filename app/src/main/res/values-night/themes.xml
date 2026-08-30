@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Fatateer" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0E1515</item>
+        <item name="android:navigationBarColor">#0E1515</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
